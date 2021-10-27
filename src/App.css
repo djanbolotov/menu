@@ -1,0 +1,85 @@
+.image{
+  max-width: 500px;
+  margin: 10px auto;
+}
+.orderedDish{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.classs{
+  margin-left: 200px;
+}
+.bill{
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+.number{
+  margin-right: 95px;
+}
+.name{
+  width: 270px;
+}
+.start{
+  position: fixed;
+  max-height: 700px;
+  display: flex;
+  justify-content: space-around;
+}
+
+header{
+  width: 95%;
+  margin: 0;
+  background-color:  chartreuse;
+  border-radius: 10px;
+  position: fixed;
+  margin: 0;
+  text-align: center;
+  font-size: 50px;
+}
+
+.sponge{
+  margin-left: 100px;
+  margin-top: 200px;
+  font-size: 40px;
+  color: chartreuse;
+}
+.order{
+  height: 100%;
+  width: 45%;
+  position: fixed;
+  padding: 0 100px;
+}
+.bordered{
+  border-bottom: 1px solid #000;
+}
+p{
+  font-size: 24px;
+  font-weight: 600;
+}
+.menu{
+  text-align: center;
+}
+.menu_item{
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(148, 110, 53);
+  border-radius: 10px;
+  -moz-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  -webkit-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  cursor: pointer;
+}
+.container1{
+  display: flex;
+}
+.container1 > div{
+  flex: 0 0 50%;
+  margin: 80px 10px;
+}
+
+img{
+  width: 100%;
+}
