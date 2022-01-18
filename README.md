@@ -1,3 +1,5 @@
+You can visit deployed version of this projec in gh-pages:[ https://djanbolotov16.github.io/menu/ ]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
